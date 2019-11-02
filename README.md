@@ -3,7 +3,7 @@ Este repositório contém uma aplicação desenvolvida em Node.js que consome al
 O salvamento é feito em um banco de dados (postgres).
 
 Preview
-![alt text](https://github.com/Douglas-de-Freitas/node-crud-restify/blob/master/img/sistema.PNG?raw=true)
+![alt text](https://github.com/Douglas-de-Freitas/node-maps/blob/master/img/sistema.PNG?raw=true)
 
 Os seguintes módulos e ferramentas foram utilizados para o desenvolvimento da aplicação:
 
@@ -16,7 +16,7 @@ Framework para rotas REST: https://github.com/restify/node-restify
 Módulo ORM para Pg, Mysql ou qualquer outro: https://github.com/tgriesser/knex, http://knexjs.org
 
 Api's utilizadas neste projeto:
-![alt text](https://github.com/Douglas-de-Freitas/node-crud-restify/blob/master/img/apis.PNG?raw=true)
+![alt text](https://github.com/Douglas-de-Freitas/node-maps/blob/master/img/apis.PNG?raw=true)
 
 ## Instalação e execução
 
